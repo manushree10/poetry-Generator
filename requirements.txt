@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+streamlit
+pyttsx3
+scikit-learn
