@@ -13,7 +13,7 @@ This is an AI-powered poetry generator that creates poems inspired by emotions a
 - 🧠 Emotion detection via ML-inspired keyword matching
 - 🔊 Text-to-Speech (TTS) narration
 - 💾 Download poem as `.txt` or fancy image
-- 📣 Share on **Twitter**, **WhatsApp**, **Facebook**, and **Instagram**
+- 📣 Share on **Twitter**, **WhatsApp**,and **Facebook**
 - 🌈 Beautiful background and smooth animations
 - 🔁 Feedback system that adapts future poems based on user ratings
 
@@ -27,7 +27,6 @@ This is an AI-powered poetry generator that creates poems inspired by emotions a
 | Backend API      | `FastAPI`, `Uvicorn`, `requests` |
 | ML Logic         | Custom Python-based emotion detection using keyword frequency |
 | TTS              | `pyttsx3` (offline speech engine) |
-| Image Generation | `Pillow` (`PIL`) |
 | Sharing Links    | `urllib` |
 | Others           | `time`, `base64`, `io` |
 
